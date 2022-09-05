@@ -19,6 +19,3 @@
 + 💻 My projects on <a href="https://github.com/Fre4i">GitHub</a>
 + 💬 Write to me about android development or python scripts
 
-## Code Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fre4i&layout=compact&show_icons=true&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Fre4i&theme=xcode&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
