@@ -12,6 +12,7 @@
 + [Telegram](https://t.me/vasyan_coder)
 + [VK](https://vk.com/vasyan.coder)
 + [lolz](https://lolz.guru/members/5696348/)
++ [Habr](https://habr.com/ru/users/BacuJluu_AJlu6a6aeBu4/)
 
 ## 🎯 Weekly Fuck The Code
 + 🛠️ I am currently working on the android application <a href="">Five Minutes</a> and <a href="https://github.com/Fre4i/weatherTelegramBot">Telegram Weather Bot</a>.
