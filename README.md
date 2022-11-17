@@ -15,7 +15,6 @@
 + [Habr](https://habr.com/ru/users/BacuJluu_AJlu6a6aeBu4/posts/)
 
 ## 🎯 Weekly Fuck The Code
-+ 🛠️ I am currently working on the android application <a href="">Five Minutes</a> and <a href="https://github.com/Fre4i/weatherTelegramBot">Telegram Weather Bot</a>.
 + 🔭 Learning python, Java and Kotlin.
 + 💻 My projects on <a href="https://github.com/Fre4i">GitHub</a>
 + 💬 Write to me about android development or python scripts
