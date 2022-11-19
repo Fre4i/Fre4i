@@ -16,6 +16,6 @@
 
 ## 🎯 Weekly Fuck The Code
 + 🔭 Learning python, Java and Kotlin.
-+ 💻 My projects on <a href="https://github.com/Fre4i">GitHub</a>
++ 💻 My projects on <a href="https://github.com/vasyan-coder">GitHub</a>
 + 💬 Write to me about android development or python scripts
 
