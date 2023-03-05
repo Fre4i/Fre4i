@@ -14,7 +14,7 @@
 + [lolz](https://lolz.guru/members/5696348/)
 + [Habr](https://habr.com/ru/users/BacuJluu_AJlu6a6aeBu4/posts/)
 
-## Weekly Fuck The Code
+## Weekly The Code
 + 🔭 Learning Kotlin, Android, python, Java.
 + 💻 My projects on <a href="https://github.com/vasyan-coder">GitHub</a>
 + 💬 Write to me about android development or python scripts
