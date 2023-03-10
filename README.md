@@ -19,7 +19,7 @@
 <details> 
   <summary>Laboratory on algorithms and data structures 💻</summary>
   <br/>
-    <a href="https://github.com/vasyan-coder/GiphyTestApi"><img alt="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=Pyatiminutka-Project&theme=radical"/></a>
+    <a href="https://github.com/vasyan-coder/GiphyTestApi"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=Pyatiminutka-Project&theme=radical"/></a>
   <br/>
 </details>
 
