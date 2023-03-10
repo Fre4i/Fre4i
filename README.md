@@ -21,29 +21,31 @@
   <br/>
     <p><a href="https://github.com/vasyan-coder/GiphyTestApi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=GiphyTestApi&theme=radical"/></a></p>
     <p><a href="https://github.com/vasyan-coder/ShoppingList"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=ShoppingList&theme=radical"/></a></p>
-    <p><a href="https://github.com/vasyan-coder/Pyatiminutka-Project"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=Pyatiminutka-Project&theme=radical"/></a></p>
+    <p><a href="https://github.com/vasyan-coder/Pyatiminutka-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=Pyatiminutka-Project&theme=radical"/></a></p>
   <br/>
 </details>
 
 <details> 
-  <summary>Laboratory on algorithms and data structures 💻</summary>
+  <summary>Laboratory on algorithms and data structures</summary>
   <br/>
-    <p><a href="https://github.com/vasyan-coder/DoublyList"><img alt="https://github.com/vasyan-coder/DoublyList" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=DoublyList&theme=radical"/></a></p>
-    <p><a href="https://github.com/vasyan-coder/ExpressionTree"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=ExpressionTree&theme=radical"/></a></p>
-    <p><a href="https://github.com/vasyan-coder/BinSearchTree"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=BinSearchTree&theme=radical"/></a></p>
-    <p><a href="https://github.com/vasyan-coder/LinkedListLocale"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=LinkedListLocale&theme=radical"/></a></p>
-    <p><a href="https://github.com/vasyan-coder/LinkedList"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=LinkedList&theme=radical"/></a></p>
-    <p><a href="https://github.com/vasyan-coder/mergerSort_part1"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=mergerSort_part1&theme=radical"/></a></p>
-    <p><a href="https://github.com/vasyan-coder/mergeSort_part2"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=mergeSort_part2&theme=radical"/></a></p>
-    <p><a href="https://github.com/vasyan-coder/HeapSort"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=HeapSort&theme=radical"/></a></p>
-    <p><a href="https://github.com/vasyan-coder/QuickSort"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=QuickSort&theme=radical"/></a></p>
+    <p><a href="https://github.com/vasyan-coder/DoublyList"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=DoublyList&theme=radical"/></a></p>
+    <p><a href="https://github.com/vasyan-coder/ExpressionTree"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=ExpressionTree&theme=radical"/></a></p>
+    <p><a href="https://github.com/vasyan-coder/BinSearchTree"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=BinSearchTree&theme=radical"/></a></p>
+    <p><a href="https://github.com/vasyan-coder/LinkedListLocale"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=LinkedListLocale&theme=radical"/></a></p>
+    <p><a href="https://github.com/vasyan-coder/LinkedList"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=LinkedList&theme=radical"/></a></p>
+    <p><a href="https://github.com/vasyan-coder/mergerSort_part1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=mergerSort_part1&theme=radical"/></a></p>
+    <p><a href="https://github.com/vasyan-coder/mergeSort_part2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=mergeSort_part2&theme=radical"/></a></p>
+    <p><a href="https://github.com/vasyan-coder/HeapSort"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=HeapSort&theme=radical"/></a></p>
+    <p><a href="https://github.com/vasyan-coder/QuickSort"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=QuickSort&theme=radical"/></a></p>
   <br/>
 </details>
 
 <details> 
-  <summary>Laboratory for the development of mobile applications for Android💻</summary>
+  <summary>Laboratory for the development of mobile applications for Android</summary>
   <br/>
-    <p><a href=""><img alt=""/></a></p>
+    <p><a href="https://github.com/vasyan-coder/Lab1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=Lab1&theme=radical"/></a></p>
+    <p><a href="https://github.com/vasyan-coder/Laba2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=Laba2&theme=radical"/></a></p>
+    <p><a href="https://github.com/vasyan-coder/Laba4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=Laba4&theme=radical"/></a></p>
   <br/>
 </details>
 
