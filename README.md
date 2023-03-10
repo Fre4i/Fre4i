@@ -19,7 +19,16 @@
 <details> 
   <summary>Laboratory on algorithms and data structures 💻</summary>
   <br/>
-    <a href="https://github.com/vasyan-coder/GiphyTestApi"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=Pyatiminutka-Project&theme=radical"/></a>
+    <p href="https://github.com/vasyan-coder/DoublyList"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=DoublyList&theme=radical"/></p>
+    <p href="https://github.com/vasyan-coder/ExpressionTree"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=ExpressionTree&theme=radical"/></p>
+    <p href="https://github.com/vasyan-coder/BinSearchTree"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=BinSearchTree&theme=radical"/></p>
+    <p href="https://github.com/vasyan-coder/LinkedListLocale"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=LinkedListLocale&theme=radical"/></p>
+    <p href="https://github.com/vasyan-coder/LinkedList"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=LinkedList&theme=radical"/></p>
+    <p href="https://github.com/vasyan-coder/mergerSort_part1"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=mergerSort_part1&theme=radical"/></p>
+    <p href="https://github.com/vasyan-coder/mergeSort_part2"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=mergeSort_part2&theme=radical"/></p>
+    <p href="https://github.com/vasyan-coder/HeapSort"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=HeapSort&theme=radical"/></p>
+    <p href="https://github.com/vasyan-coder/QuickSort"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=QuickSort&theme=radical"/></p>
+    <p href="https://github.com/vasyan-coder/QuickSort"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=QuickSort&theme=radical"/></p>
   <br/>
 </details>
 
