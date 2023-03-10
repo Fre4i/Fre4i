@@ -14,7 +14,7 @@
 + [lolz](https://lolz.guru/members/5696348/)
 + [Habr](https://habr.com/ru/users/BacuJluu_AJlu6a6aeBu4/posts/)
 
-# Projects
+## Projects
 
 <details> 
   <summary>Laboratory on algorithms and data structures 💻</summary>
