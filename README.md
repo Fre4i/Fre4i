@@ -33,7 +33,7 @@
 <details> 
   <summary>Android apps</summary>
   <br/>
-    <a href="https://github.com/vasyan-coder/GiphyTestApi"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=ShoppingList&theme=radical"/></a>
+    <a href="https://github.com/vasyan-coder/GiphyTestApi"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=GiphyTestApi&theme=radical"/></a>
     <a href="https://github.com/vasyan-coder/ShoppingList"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=ShoppingList&theme=radical"/></a>
     <a href="https://github.com/vasyan-coder/Pyatiminutka-Project"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=Pyatiminutka-Project&theme=radical"/></a>
   <br/>
