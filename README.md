@@ -17,6 +17,15 @@
 ## Projects
 
 <details> 
+  <summary>Android apps</summary>
+  <br/>
+    <p href="https://github.com/vasyan-coder/GiphyTestApi"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=ShoppingList&theme=radical"/></p>
+    <p href="https://github.com/vasyan-coder/ShoppingList"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=ShoppingList&theme=radical"/></p>
+    <p href="https://github.com/vasyan-coder/Pyatiminutka-Project"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=Pyatiminutka-Project&theme=radical"/></p>
+  <br/>
+</details>
+
+<details> 
   <summary>Laboratory on algorithms and data structures 💻</summary>
   <br/>
     <p href="https://github.com/vasyan-coder/DoublyList"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=DoublyList&theme=radical"/></p>
@@ -28,7 +37,6 @@
     <p href="https://github.com/vasyan-coder/mergeSort_part2"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=mergeSort_part2&theme=radical"/></p>
     <p href="https://github.com/vasyan-coder/HeapSort"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=HeapSort&theme=radical"/></p>
     <p href="https://github.com/vasyan-coder/QuickSort"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=QuickSort&theme=radical"/></p>
-    <p href="https://github.com/vasyan-coder/QuickSort"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=QuickSort&theme=radical"/></p>
   <br/>
 </details>
 
@@ -36,15 +44,6 @@
   <summary>Laboratory for the development of mobile applications for Android💻</summary>
   <br/>
     <a href=""><img alt=""/></a>
-  <br/>
-</details>
-
-<details> 
-  <summary>Android apps</summary>
-  <br/>
-    <p href="https://github.com/vasyan-coder/GiphyTestApi"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=ShoppingList&theme=radical"/></p>
-    <p href="https://github.com/vasyan-coder/ShoppingList"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=ShoppingList&theme=radical"/></p>
-    <p href="https://github.com/vasyan-coder/Pyatiminutka-Project"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=Pyatiminutka-Project&theme=radical"/></p>
   <br/>
 </details>
 
