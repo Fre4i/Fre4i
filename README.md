@@ -28,7 +28,7 @@
 <details> 
   <summary>Laboratory on algorithms and data structures 💻</summary>
   <br/>
-    <p href="https://github.com/vasyan-coder/DoublyList"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=DoublyList&theme=radical"/></p>
+    <p href="https://github.com/vasyan-coder/DoublyList"><img alt="https://github.com/vasyan-coder/DoublyList" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=DoublyList&theme=radical"/></p>
     <p href="https://github.com/vasyan-coder/ExpressionTree"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=ExpressionTree&theme=radical"/></p>
     <p href="https://github.com/vasyan-coder/BinSearchTree"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=BinSearchTree&theme=radical"/></p>
     <p href="https://github.com/vasyan-coder/LinkedListLocale"><img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=LinkedListLocale&theme=radical"/></p>
