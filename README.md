@@ -14,6 +14,31 @@
 + [lolz](https://lolz.guru/members/5696348/)
 + [Habr](https://habr.com/ru/users/BacuJluu_AJlu6a6aeBu4/posts/)
 
+# Projects
+
+<details> 
+  <summary>Laboratory on algorithms and data structures 💻</summary>
+  <br/>
+    <a href="https://github.com/vasyan-coder/GiphyTestApi"><img alt="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=Pyatiminutka-Project&theme=radical"/></a>
+  <br/>
+</details>
+
+<details> 
+  <summary>Laboratory for the development of mobile applications for Android💻</summary>
+  <br/>
+    <a href=""><img alt=""/></a>
+  <br/>
+</details>
+
+<details> 
+  <summary>Android apps</summary>
+  <br/>
+    <a href="https://github.com/vasyan-coder/GiphyTestApi"><img alt="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=ShoppingList&theme=radical"/></a>
+    <a href="https://github.com/vasyan-coder/ShoppingList"><img alt="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=ShoppingList&theme=radical"/></a>
+    <a href="https://github.com/vasyan-coder/Pyatiminutka-Project"><img alt="https://github-readme-stats.vercel.app/api/pin/?username=vasyan-coder&repo=Pyatiminutka-Project&theme=radical"/></a>
+  <br/>
+</details>
+
 ## Weekly The Code
 + 🔭 Learning Kotlin, Android, python, Java.
 + 💻 My projects on <a href="https://github.com/vasyan-coder">GitHub</a>
